@@ -1,16 +1,28 @@
-### Hi there 👋 I'm Gabriel 25yo. 
+### Hi there, I'm Gabriel. 👋
 
-<!--
-**Dabgan/Dabgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am self-taught, who started learning how to code a little over a year ago. I am currently learning and creating projects in React which is my favourite technology right now 💗.
 
-Here are some ideas to get you started:
+## My technologies / skills: ⚙️ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3, SCSS, Styled-Components
+- JavaScript (ES6+)
+- React (react hooks, react-router)
+- Redux (redux-thunk)
+- Bootstrap basics
+- jQuery basics
+- Git / Github
+- RWD
+- Firebase
+
+## Technologies I want to learn in future: 📖
+
+- tests with Jest (learning it right now)
+- Typescript
+- Gatsby
+
+## Most recent projects: 🚧
+
+- ❄️ [Snowshop](https://snow-shop.netlify.app/) - my first ever site. Online shop for snowboards and stuff
+- ⏱️ [Github Timeline](https://commits-timeline.netlify.app/) - app thats shows commits from selected repo on a timeline
+- ❓ [React quiz app](https://dabgan.github.io/Project06-React_Quiz/) - simple quiz
