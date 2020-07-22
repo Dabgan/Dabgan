@@ -23,6 +23,6 @@ I am self-taught, who started learning how to code a little over a year ago. I a
 
 ## 🚧 Most recent projects:
 
-- ❄️ [Snowshop](https://snow-shop.netlify.app/) - my first ever site. Online shop for snowboards and stuff
+- ❄️ [Snowshop](https://snow-shop.netlify.app/) - my **biggest** project so far. Online shop for snowboards and stuff
 - ⏱️ [Github Timeline](https://commits-timeline.netlify.app/) - app thats shows commits from selected repo on a timeline
 - ❓ [React quiz app](https://dabgan.github.io/Project06-React_Quiz/) - simple quiz
