@@ -17,7 +17,7 @@ I am self-taught, who started learning how to code a little over a year ago. I a
 
 ## 📖 Technologies I want to learn in future:
 
-- tests with Jest (learning it right now)
+- tests with Jest and Enzyme (learning it right now)
 - Typescript
 - Gatsby
 
