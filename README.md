@@ -1,25 +1,34 @@
-### 👋 Hi there, I'm Gabriel.
+## 👋 Hi there, I'm Gabriel.
 
 I am self-taught, who started learning how to code a little over a year ago. I am currently learning and creating projects in React which is my favourite technology right now 💗.
 
 ## ⚙️ My technologies / skills:
+
+#### know quite well:
 
 - HTML5
 - CSS3, SCSS, Styled-Components
 - JavaScript (ES6+)
 - React (react hooks, react-router)
 - Redux (redux-thunk)
-- Bootstrap basics
-- jQuery basics
 - Git / Github
 - RWD
+
+#### worked with, know the basics:
+
+- Webpack
 - Firebase
+- Bootstrap basics
+- jQuery basics
+- Jest & Enzyme test basics
+
 
 ## 📖 Technologies I want to learn in future:
 
-- tests with Jest and Enzyme (learning it right now)
+- Gatsby (currently learning)
 - Typescript
-- Gatsby
+- GraphQL
+
 
 ## 🚧 Most recent projects:
 
