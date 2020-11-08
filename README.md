@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Gabriel.
 
-I am self-taught, who started learning how to code a little over a year ago. I am currently learning and creating projects in React which is my favourite technology right now 💗.
+I am self-taught, who started learning how to code over a year ago. React❤️ is my favourite technology so far, but currently I am working on projects with Gatsby.
 
 ## ⚙️ My technologies / skills:
 
@@ -12,26 +12,25 @@ I am self-taught, who started learning how to code a little over a year ago. I a
 - React (react hooks, react-router)
 - Redux (redux-thunk)
 - Git / Github
+- Gatsby
+- GSAP
 - RWD
+- Figma
 
 #### worked with, know the basics:
 
 - Webpack
 - Firebase
-- Bootstrap basics
-- jQuery basics
-- Jest & Enzyme test basics
+- Bootstrap
+- jQuery
+- Jest & React Testing Library
 
 
-## 📖 Technologies I want to learn in future:
+## 📖 Currently learning:
 
-- Gatsby (currently learning)
 - Typescript
-- GraphQL
 
 
-## 🚧 Most recent projects:
+## 🚧 Checkout my personal website for more info:
 
-- ❄️ [Snowshop](https://snow-shop.netlify.app/) - my **biggest** project so far. Online shop for snowboards and stuff
-- ⏱️ [Github Timeline](https://commits-timeline.netlify.app/) - app thats shows commits from selected repo on a timeline
-- ❓ [React quiz app](https://dabgan.github.io/Project06-React_Quiz/) - simple quiz
+https://www.gabrieldaniluk.pl/
