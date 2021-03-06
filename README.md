@@ -1,18 +1,20 @@
 ## 👋 Hi there, I'm Gabriel.
 
-I am self-taught, who started learning how to code over a year ago. React❤️ is my favourite technology so far, but currently I am working on projects with Gatsby.
+I am self-taught, who started learning how to code over two years ago. React❤️ is my favourite technology so far, but I also like working with Vanilla JavaScript. 
 
 ## ⚙️ My technologies / skills:
 
 #### know quite well:
 
 - HTML5
-- CSS3, SCSS, Styled-Components
+- CSS3, SCSS, Styled-Components, CSS Modules
 - JavaScript (ES6+)
+- Typescript
 - React (react hooks, react-router)
 - Redux (redux-thunk)
 - Git / Github
 - Gatsby
+- GraphQL
 - GSAP
 - RWD
 - Figma
@@ -25,10 +27,11 @@ I am self-taught, who started learning how to code over a year ago. React❤️ 
 - jQuery
 - Jest & React Testing Library
 
-
 ## 📖 Currently learning:
 
-- Typescript
+- testing
+- optimizing web sites (Core Web Vitals)
+- organizing my React knowledge
 
 
 ## 🚧 Checkout my personal website for more info:
