@@ -4,7 +4,7 @@ I am self-taught, who started learning how to code over two years ago. React❤�
 
 ## ⚙️ My technologies / skills:
 
-#### know quite well:
+#### know well:
 
 - HTML5
 - CSS3, SCSS, Styled-Components, CSS Modules
