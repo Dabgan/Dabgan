@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Gabriel.
 
-I am self-taught, who started learning how to code over two years ago. React❤️ is my favourite technology so far, but I also like working with Vanilla JavaScript. 
+I am self-taught, who started learning how to code over two years ago. React❤️ is my favourite technology so far, but I also really enjoy working with Vanilla JavaScript. 
 
 ## ⚙️ My technologies / skills:
 
