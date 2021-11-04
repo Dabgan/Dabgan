@@ -7,4 +7,4 @@ I learn quickly and I am constantly developing my skills. Curiosity and the desi
 
 ## 🔥 You can checkout my personal website for more info:
 
-https://www.gabrieldaniluk.pl/
+https://www.gabrieldaniluk.com/
