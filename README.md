@@ -1,5 +1,3 @@
 ## 👋 Hi there, I'm Gabriel.
 
-I am currently working as Frontend Developer for [lastminute.com](https://www.lastminute.com/).
-
-I learn quickly and I am constantly developing my skills. Curiosity and the desire to progress is what keeps me going. In all of my projects I try to discover and learn something new, which always gives me a lot of satisfaction.
+As a Frontend Developer with over 2 years of professional experience, I bring not only technical expertise but a strong drive to continuously improve and learn. React is my go-to technology, but I am constantly seeking out new challenges and opportunities to expand my skill set and deliver even better results for end-users.
